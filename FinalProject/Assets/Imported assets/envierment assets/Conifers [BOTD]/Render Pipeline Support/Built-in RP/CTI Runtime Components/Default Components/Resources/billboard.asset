@@ -4,8 +4,9 @@
 BillboardAsset:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: CTI_default_billboard
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: billboard
   serializedVersion: 2
   width: 12.395264
   bottom: -0.37708092
